@@ -1,0 +1,42 @@
+[
+  {
+    "symbol": "SBIN",
+    "name": "State Bank of India",
+    "price": 570,
+    "changePercent": 8.2,
+    "volume": 22000000,
+    "avgVolume": 12000000,
+    "rsi": 75,
+    "breakout": true
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys",
+    "price": 1480,
+    "changePercent": 3.9,
+    "volume": 8000000,
+    "avgVolume": 7000000,
+    "rsi": 66,
+    "breakout": false
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "name": "Hindustan Unilever",
+    "price": 2530,
+    "changePercent": 1.2,
+    "volume": 3000000,
+    "avgVolume": 3200000,
+    "rsi": 40,
+    "breakout": false
+  },
+  {
+    "symbol": "TATASTEEL",
+    "name": "Tata Steel",
+    "price": 125,
+    "changePercent": 9.5,
+    "volume": 18000000,
+    "avgVolume": 10000000,
+    "rsi": 80,
+    "breakout": true
+  }
+]
